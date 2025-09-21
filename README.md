@@ -82,25 +82,25 @@ streamlit run src/dashboard/app.py
 
 ## Key Features
 
-### 📊 Data Analysis
+###  Data Analysis
 - Comprehensive EDA with 500K+ transactions
 - Customer behavior analysis
 - Product performance insights
 - Seasonal trend analysis
 
-### 🎯 Customer Segmentation
+###  Customer Segmentation
 - RFM (Recency, Frequency, Monetary) analysis
 - Customer lifetime value calculation
 - Behavioral segmentation
 - Retention analysis
 
-### 🔮 Predictive Models
+###  Predictive Models
 - Sales forecasting using ARIMA, Prophet
 - Customer churn prediction
 - Model performance validation
 - Feature importance analysis
 
-### 🖥️ Interactive Dashboard
+###  Interactive Dashboard
 - Real-time sales metrics
 - Customer segment visualization
 - Predictive analytics interface
@@ -145,3 +145,4 @@ This project is for educational and portfolio purposes.
 [Shady Kishk]
 [shadykishk77@gmail.com]
 [www.linkedin.com/in/shady-kishk]
+
