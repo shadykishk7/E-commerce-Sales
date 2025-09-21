@@ -142,7 +142,6 @@ This project is for educational and portfolio purposes.
 
 ## Contact
 
-[Your Name]
-[Your Email]
-[LinkedIn Profile]
-[GitHub Profile]
+[Shady Kishk]
+[shadykishk77@gmail.com]
+[www.linkedin.com/in/shady-kishk]
