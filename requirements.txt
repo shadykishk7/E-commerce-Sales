@@ -1,0 +1,46 @@
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.23.0
+openpyxl>=3.0.10  # For Excel file reading
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Statistical analysis
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+xgboost>=1.6.0
+
+# Time series forecasting
+prophet>=1.1.0
+
+# Market basket analysis
+mlxtend>=0.21.0
+
+# Dashboard and web app
+streamlit>=1.25.0
+
+# Jupyter and notebook support
+jupyter>=1.0.0
+ipykernel>=6.15.0
+notebook>=6.4.0
+
+# Development and utilities
+python-dotenv>=0.20.0
+tqdm>=4.64.0
+
+# Model serialization
+joblib>=1.2.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Code quality
+flake8>=5.0.0
+black>=22.0.0
